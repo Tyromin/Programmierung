@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1668274260 source:c:\users\erik\desktop\uni\programmierung\programme\p6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"VR_Model.h"
+
+1383082542 c:\users\erik\desktop\uni\programmierung\programme\p6\vr_model.h
+
+1686524818 source:c:\users\erik\desktop\uni\programmierung\programme\p6\vr_model.c
+	"VR_Model.h"
+	<stdio.h>
+	<string.h>
+

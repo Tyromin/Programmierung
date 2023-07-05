@@ -1,0 +1,4 @@
+icao = EDXR
+bgrad= 54.22
+lgrad= 9.60
+name = Rendsburg-Schachtholm
