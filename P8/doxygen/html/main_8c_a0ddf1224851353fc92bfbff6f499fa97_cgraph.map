@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$main_8c.html#a8ef6f315fd6540573a442bc6a934183c" title="anzeigenFlugplatzliste" alt="" coords="113,5,292,37"/>
+<area shape="rect" id="node7" href="$main_8c.html#a3590b55ab119b58925cc7c3e3bbce61d" title="ladeFlugplatzdaten" alt="" coords="125,61,280,93"/>
+<area shape="rect" id="node5" href="$main_8c.html#af3eac3ad203ab091baad010ef3f7ab0a" title="clrscr" alt="" coords="424,5,485,37"/>
+<area shape="rect" id="node9" href="$main_8c.html#addda324d6917b1d0da0635800e6e2b3e" title="konvertiereStringZuFlugplatz" alt="" coords="341,61,568,93"/>
+<area shape="rect" id="node13" href="$main_8c.html#a88a8f09ebf0b6e49253435629194a0d9" title="ladeTextDatei" alt="" coords="396,117,513,149"/>
+<area shape="rect" id="node11" href="$main_8c.html#a2989a659e01b5aa1a4b10b9cc459ba43" title="grad" alt="" coords="617,61,671,93"/>
+</map>
