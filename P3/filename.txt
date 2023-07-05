@@ -1,0 +1,6 @@
+icao = EDLE
+bg_grad = 51
+bg_min = 24.20
+lg_grad = 6
+lg_min = 56.30
+fpName = Essen/Mülheim
