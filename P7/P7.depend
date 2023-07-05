@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1383999861 source:d:\vorlesungen\programmierung i\praktikum\p7-arbeiten mit dateien\p7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
